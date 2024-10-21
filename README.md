@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-💬  **"I'm a data scientist focused on building innovative platforms that streamline daily tasks and transformative change in people's lives.** 
+💬  **I'm a data scientist focused on building impactful platforms, to improve people's lives.** 
 
 My background in food safety and education has equipped me with strong analytical skills and a deep understanding of operational efficiency. 
 
